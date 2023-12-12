@@ -1,6 +1,6 @@
 # NBA MVP Prediction Project
 
-![NBA Logo](https://worldvectorlogo.com/logo/nba-6)
+![nba-logo-design](https://github.com/oribar1/MVP_Prediction/assets/120647439/a707d2c9-f814-4b55-ada0-4b4e8658769f)
 
 ## Overview
 
