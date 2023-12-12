@@ -8,10 +8,8 @@ This project aims to predict the NBA Most Valuable Player (MVP) using data scrap
 
 ## Project Structure
 
-- `data/`: Contains the dataset used for training and testing the models.
-- `notebooks/`: Jupyter notebooks used for data exploration, model training, and evaluation.
-- `src/`: Python scripts for web scraping, data processing, and model implementation.
-- `models/`: Saved machine learning models for future use.
+[player_mvp_stats.csv](https://github.com/oribar1/MVP_Prediction/files/13647880/player_mvp_stats.csv)
+: Contains the dataset used for training and testing the models.
 
 ## Tech Stack
 
@@ -25,9 +23,4 @@ This project aims to predict the NBA Most Valuable Player (MVP) using data scrap
 - **Machine Learning:**
   - scikit-learn: Machine learning library for building and training models.
 
-## Project Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/nba-mvp-prediction.git
